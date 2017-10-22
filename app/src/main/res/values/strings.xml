@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Julie Menge\'s Resume</string>
+    <string name="work_experience">\n
+        <b>Senior HR Generalist @ Treehouse</b>\n
+        04/2016 - Present \n
+        * Full-cycle recruiting\n
+        * Diversity &amp; Inclusion team lead\n
+        * Employee engagement champion\n
+        * Payroll admin\n
+        * Answerer of all the questions\n
+        \n
+        <b>Talent Acquisition Specialist @ 4moms</b>\n
+        05/2014 - 02/2016\n
+        * Full-cycle recruiting\n
+        * Developed internship program\n
+        * HR metrics guru\n
+        \n
+        <b>Research Assistant @ Disney Research Pittsburgh</b>\n
+        02/2011 - 05/2014\n
+        * Transcribed and annotated research data\n
+        * Worked part-time while teaching yoga\n
+        \n
+        <b>HRIS Analyst @ Wesley Spectrum Services</b>\n
+        03/2009 - 02/2011\n
+        * HRIS admin\n
+        * Crystal Reports developer\n
+        \n
+        <b>Recruiter @ Management Science Associates</b>\n
+        04/2006 - 03/2009\n
+        * Full-cycle recruiting\n
+        * Managed internship program\n
+        * HR metrics guru
+    </string>
+    <string name="education">\n
+        <b>University of Pittsburgh</b>\n
+        Master of Business Administration\n
+        2006\n
+        \n
+        <b>University of Pittsburgh</b>\n
+        Bachelor of Science in Information Science\n
+        2003
+    </string>
+    <string name="community_involvement">\n
+        Career coach at Center for Women in Pittsburgh\n
+        Speaker at ElaConf
+    </string>
+    <string name="sites">\n
+        www.juliemenge.com\n
+        www.github.com/juliemenge\n
+        www.linkedin.com/in/juliemenge
+    </string>
+</resources>
